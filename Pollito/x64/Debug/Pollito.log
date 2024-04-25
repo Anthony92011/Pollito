@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(9,23): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(9,23): warning C4244:         with
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(9,23): warning C4244:         [
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(9,23): warning C4244:             T=unsigned int
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(9,23): warning C4244:         ]
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(10,24): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(10,24): warning C4244:         with
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(10,24): warning C4244:         [
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(10,24): warning C4244:             T=unsigned int
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(10,24): warning C4244:         ]
+C:\Users\USER\source\repos\Pollito\Pollito\main.cpp(33,42): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Pollito.vcxproj -> C:\Users\USER\source\repos\Pollito\x64\Debug\Pollito.exe
